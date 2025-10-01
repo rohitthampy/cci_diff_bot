@@ -4,7 +4,7 @@
 - Arduino Uno R4 WiFi
 
 ### Software
-Make sure to install the following libraries in the Arduino Library via the library manager.
+Make sure to install the following libraries in the Arduino IDE via the library manager.
 - Adafruit SSD1306 by Adafruit
 - Adafruit GFX library by Adafruit
 - Adafruit BNO08x by Adafruit (will need it in the near future)
